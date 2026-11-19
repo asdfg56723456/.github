@@ -2,9 +2,9 @@
 
 Before anything else, 2 facts worth knowing upfront: Microsoft ended support for Office Professional Plus 2019 on October 14, 2025, meaning no more security patches, bug fixes, or technical support from Microsoft going forward. And “Professional Plus” specifically is a volume-licensing product, designed for organizations with a Microsoft volume license agreement, not something Microsoft sells directly to individual consumers at retail. MS Office 2021 remains the more sensible perpetual-license option for anyone buying new today, still supported, still receiving updates, and actually sold through Microsoft’s own consumer channels.
 
-## [Download]https://macworld-forums.net/
+## [Download](https://macworld-forums.net)
 
-## [Download]https://macworld-forums.net/
+## [Download](https://macworld-forums.net)
 
 Microsoft Office Professional Plus 2019 is developed by Microsoft, and when it was current, it included Word, Excel, PowerPoint, Outlook, OneNote, Publisher, Access, and Skype for Business, aimed at businesses needing the full desktop suite under a volume agreement rather than individual retail licenses. OnlyOffice is a genuinely free, open-source alternative worth considering if you specifically don’t want to deal with any of the licensing complexity around an older Microsoft product, whether that’s an outdated volume SKU or a subscription you don’t want.
 
